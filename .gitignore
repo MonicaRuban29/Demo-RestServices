@@ -1,4 +1,5 @@
 #ignores eclipse settings file
+.#*
 .classpath
 .project
 .settings
